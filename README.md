@@ -198,7 +198,7 @@ cd SistemaEventos
 
 ---
 
-## ▶️ Executando o projeto
+##  Executando o projeto
 
 Compile o projeto:
 
@@ -220,7 +220,7 @@ http://localhost:8080
 
 ---
 
-## 🔌 API
+##  API
 
 A aplicação utiliza uma API REST para comunicação entre os sistemas.
 
